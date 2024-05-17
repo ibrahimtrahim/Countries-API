@@ -1,11 +1,11 @@
 import Header from "./components/Header";
-import Home from "./screens/Home";
+import AllRoutes from "./routes/AllRoutes";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Home/>
+      <AllRoutes/>
     </div>
   );
 }

@@ -2,6 +2,7 @@ import {Routes, Route } from 'react-router-dom';
 import  Home  from '../screens/Home.js';
 import  Search from '../screens/Search.js';
 import CountryDetail from '../screens/CountryDetail.js';
+import PageNotFound from '../screens/PageNotFound.js';
 
 
 function AllRoutes() {
@@ -16,6 +17,7 @@ function AllRoutes() {
             <Route path="countries/europe" element={<Home api='v3.1/region/europe' />} />
             <Route path="countries/oceania" element={<Home api='v3.1/region/oceania' />} />
             <Route path="search" element={<Search />} />
+            <Route path='*' element={<PageNotFound/>}/>
         </Routes>
     </>
   )

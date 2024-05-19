@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ibrahimtrahim/Countries/static/css/main.72dbc41b.css",
-    "main.js": "/ibrahimtrahim/Countries/static/js/main.99d48a7f.js",
-    "static/js/453.62f49430.chunk.js": "/ibrahimtrahim/Countries/static/js/453.62f49430.chunk.js",
-    "static/media/map.jpg": "/ibrahimtrahim/Countries/static/media/map.a601c8029f248293120c.jpg",
-    "index.html": "/ibrahimtrahim/Countries/index.html",
-    "main.72dbc41b.css.map": "/ibrahimtrahim/Countries/static/css/main.72dbc41b.css.map",
-    "main.99d48a7f.js.map": "/ibrahimtrahim/Countries/static/js/main.99d48a7f.js.map",
-    "453.62f49430.chunk.js.map": "/ibrahimtrahim/Countries/static/js/453.62f49430.chunk.js.map"
+    "main.css": "/github.com/Countries-API/static/css/main.72dbc41b.css",
+    "main.js": "/github.com/Countries-API/static/js/main.fcd663aa.js",
+    "static/js/453.62f49430.chunk.js": "/github.com/Countries-API/static/js/453.62f49430.chunk.js",
+    "static/media/map.jpg": "/github.com/Countries-API/static/media/map.a601c8029f248293120c.jpg",
+    "index.html": "/github.com/Countries-API/index.html",
+    "main.72dbc41b.css.map": "/github.com/Countries-API/static/css/main.72dbc41b.css.map",
+    "main.fcd663aa.js.map": "/github.com/Countries-API/static/js/main.fcd663aa.js.map",
+    "453.62f49430.chunk.js.map": "/github.com/Countries-API/static/js/453.62f49430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72dbc41b.css",
-    "static/js/main.99d48a7f.js"
+    "static/js/main.fcd663aa.js"
   ]
 }
